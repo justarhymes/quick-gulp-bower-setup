@@ -27,7 +27,6 @@ var paths = {
   ],
   includes: [
     'includes/header.php',
-    'includes/footer.php',
   ]
 };
 
@@ -52,7 +51,7 @@ gulp.task('images', function () {
 });
 
 gulp.task('compass', function() {
-  gulp.src('./scss/app.scss')
+  gulp.src('./scss/main.scss')
     .pipe(compass({
       css: './stylesheets',
       sass: './scss',
