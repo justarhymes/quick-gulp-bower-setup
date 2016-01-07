@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web App</title>
     <link rel="stylesheet" href="/stylesheets/app.min.css">
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
   </head>
   <body>
 
