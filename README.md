@@ -8,6 +8,6 @@ Install bower with: ``npm install -g bower``
 
 Install Gulp with: ``npm install --global gulp``
 
-*Updating*
+### Updating
     npm install
     bower install
